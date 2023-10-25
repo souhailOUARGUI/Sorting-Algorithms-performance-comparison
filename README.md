@@ -34,7 +34,7 @@ this small project is destined for comparing the performance and machine time fo
             //pipopen pour communicer entre les applications. 
 
 # Compétences:
-  ->Tableaux(Vecteurs/Matrice).
+   -- Tableaux(Vecteurs/Matrice).
   ->Pointeurs(Tableaux dynamiques).
   ->Fonctions/Fonctions paramétre/pointeur sur fonction.
   ->Fonctions bibliotheque sur le temps systéme.CLOCKES CHECK pour calculer le temps
