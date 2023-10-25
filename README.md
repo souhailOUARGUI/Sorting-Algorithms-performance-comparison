@@ -35,7 +35,7 @@ this small project is destined for comparing the performance and machine time fo
 
 # Compétences:
     -->  Tableaux(Vecteurs/Matrice).
-    ->Pointeurs(Tableaux dynamiques).
-    ->Fonctions/Fonctions paramétre/pointeur sur fonction.
-    ->Fonctions bibliotheque sur le temps systéme.CLOCKES CHECK pour calculer le temps
-    ->Fonctions de la bibliiotheque pour generer des nombres aléatoires. / srand() et rand()
+    --> Pointeurs(Tableaux dynamiques).
+    --> Fonctions/Fonctions paramétre/pointeur sur fonction.
+    --> Fonctions bibliotheque sur le temps systéme.CLOCKES CHECK pour calculer le temps
+    --> Fonctions de la bibliiotheque pour generer des nombres aléatoires. / srand() et rand()
