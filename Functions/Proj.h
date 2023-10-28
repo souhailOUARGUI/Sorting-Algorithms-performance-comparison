@@ -8,7 +8,7 @@ int *GenerateRandomList(int size)
     int *list = (int *)calloc(size, sizeof(int));
     for (int i = 0; i < size; i++)
     {
-        list[i] = rand() % 20000;
+        list[i] = rand() % 5000;
     }
     return list;
 }
@@ -109,25 +109,5 @@ int *Tri_Insertion(int *list, int size)
 
 // int *Tri_rapide(int *list, int size)
 // {
-//     int pivot = list[0];
-//     int i = 0;
-//     int j = size - 1;
-//     int tmp;
-//     while (i < j)
-//     {
-//         while (list[i] <= pivot)
-//             i++;
-//         while (list[j] > pivot)
-//             j--;
-//         if (i < j)
-//         {
-//             tmp = list[i];
-//             list[i] = list[j];
-//             list[j] = tmp;
-//         }
-//     }
-//     tmp = list[0];
-//     list[0] = list[j];
-//     list[j] = tmp;
-//     return list;
+//    
 // }
