@@ -39,3 +39,6 @@ this small project is destined for comparing the performance and machine time fo
     --> Fonctions/Fonctions paramétre/pointeur sur fonction.
     --> Fonctions bibliotheque sur le temps systéme.CLOCKES CHECK pour calculer le temps
     --> Fonctions de la bibliiotheque pour generer des nombres aléatoires. / srand() et rand()
+
+#Allures dans GNUPLOT après Lissage
+
