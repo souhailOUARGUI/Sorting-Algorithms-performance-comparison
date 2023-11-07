@@ -41,4 +41,4 @@ this small project is destined for comparing the performance and machine time fo
     --> Fonctions de la bibliiotheque pour generer des nombres aléatoires. / srand() et rand()
 
 # Allures dans GNUPLOT après Lissage
-![alt text](https://github.com/souhailOUARGUI/Sorting-Algorithms-performance-comparison.git/plot.png?raw=true)
+![Alt text](https://github.com/souhailOUARGUI/Sorting-Algorithms-performance-comparison/blob/master/plot.png)
